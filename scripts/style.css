@@ -40,8 +40,8 @@ TABLE OF CONTENT
 
   /* COLOR PALETTE */
 
-  --ui-color-n-000: #fff;
-  --ui-color-n-100: #ebebeb;
+  --ui-color-n-000: rgb(255, 179, 179);
+  --ui-color-n-100: #cacaca;
   --ui-color-n-300: #aeaeae;
   --ui-color-n-500: #353535;
   --ui-color-n-700: #282828;
